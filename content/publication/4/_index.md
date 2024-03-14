@@ -1,7 +1,7 @@
 ---
 title: "Land-use change with island biogeography to alter bird community assembly"
 authors:
-- Yuhao Zhao, Chase Mendenhall, Tom Matthews, Duorum Wang, Wande Li, Xiangxu Liu, Shupei Tang, **Peng Han**, Guangpeng Wei, Yi Kang, Chenxiao Wu, Rui Wang, Di Zeng, Luke O Frishkoff, Xingfeng Si
+- Yuhao Zhao, Chase Mendenhall, Tom Matthews, Duorum Wang, Wande Li, Xiangxu Liu, Shupei Tang, Peng Han*, Guangpeng Wei, Yi Kang, Chenxiao Wu, Rui Wang, Di Zeng, Luke O Frishkoff, Xingfeng Si
 date: "2024-01-24T00:00:00Z"
 doi: ""
 
@@ -19,5 +19,5 @@ publication_short: ""
 
 abstract: 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of the Royal Society B: Biological Sciences"
+publication: "Proceedings of the Royal Society B: Biological Sciences"
 ---

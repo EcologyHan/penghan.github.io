@@ -19,5 +19,5 @@ publication_short: ""
 
 abstract: 
 # Publication name and optional abbreviated publication name.
-publication: "*Biological Conservation"
+publication: "Biological Conservation"
 ---

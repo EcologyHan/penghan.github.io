@@ -117,5 +117,5 @@ education:
 #highlight_name: true
 ---
 
-#I am a PhD candidate in Prof. Xingfeng Si’s lab (https://sixf.org/) at the School of Ecological and Environmental Sciences, East China Normal University. By combining traditional methods and acoustic monitoring technologies (see also our work on soundscape diversity of island birds: Han et al. 2023), my PhD work mainly focus on the priority effects in bird community assembly on fragmented habitat islands during migratory season. Our study is located in the Thousand Island Lake, which is a large inundated lake in eastern China created by dam constructions 65 years ago.
+I am a PhD candidate in Prof. Xingfeng Si’s lab (https://sixf.org/) at the School of Ecological and Environmental Sciences, East China Normal University. By combining traditional methods and acoustic monitoring technologies (see also our work on soundscape diversity of island birds: Han et al. 2023), my PhD work mainly focus on the priority effects in bird community assembly on fragmented habitat islands during migratory season. Our study is located in the Thousand Island Lake, which is a large inundated lake in eastern China created by dam constructions 65 years ago.
 

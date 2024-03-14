@@ -171,10 +171,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+     #   - name: Deep Learning
+     #     tag: Deep Learning
+     #   - name: Other
+     #     tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -210,7 +210,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+     #   exclude_featured: true
     design:
       columns: '2'
       view: citation
@@ -235,7 +235,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Appreciate people while we still got them.
       # Contact (add or remove contact options as necessary)
       email: Peng.han_ecology@outlook.com
       #phone: 888 888 88 88

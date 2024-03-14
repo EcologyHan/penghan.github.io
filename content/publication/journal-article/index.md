@@ -1,7 +1,7 @@
 ---
 title: "Nearby large islands diminish biodiversity of the focal island by a negative target effect"
 authors:
-- Duorun Wang, Yuhao Zhao, Shupei Tang, Xiangxu Liu, Wande Li, **Peng Han**, Di Zeng, Yangheshan Yang, Guangpeng Wei, Yi Kang, Xingfeng Si
+- Duorun Wang, Yuhao Zhao, Shupei Tang, Xiangxu Liu, Wande Li, Peng Han*, Di Zeng, Yangheshan Yang, Guangpeng Wei, Yi Kang, Xingfeng Si
 
 author_notes:
 - "Equal contribution"
@@ -18,13 +18,13 @@ publishDate: "2023-02-01T00:00:00Z"
 # publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Animal Ecology"
-publication_short: ""
+publication: "Journal of Animal Ecology"
+# publication_short: ""
 
-abstract: 
+#abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+#summary: 
 
 #tags:
 #- Source Themes
@@ -61,7 +61,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
