@@ -195,7 +195,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+          - News
         featured_only: true
     design:
       columns: '2'
