@@ -1,7 +1,7 @@
 ---
 title: "Widespread arboreal foraging behavior in ground-dwelling birds and the urgency of life-history studies"
 authors:
-- Wande Li, Chen Zhu, Ingo Grass, **Peng Han**, Yao Shen, Ping Ding, Xingfeng Si
+- Wande Li, Chen Zhu, Ingo Grass, Peng Han*, Yao Shen, Ping Ding, Xingfeng Si
 date: "2023-10-01T00:00:00Z"
 doi: ""
 

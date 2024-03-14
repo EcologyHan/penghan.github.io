@@ -3,9 +3,9 @@ title: "Nearby large islands diminish biodiversity of the focal island by a nega
 authors:
 - Duorun Wang, Yuhao Zhao, Shupei Tang, Xiangxu Liu, Wande Li, Peng Han*, Di Zeng, Yangheshan Yang, Guangpeng Wei, Yi Kang, Xingfeng Si
 
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 date: "2023-02-01T00:00:00Z"
 doi: ""
 
