@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Hi! World!
+title: Peng Han
 
 # Name pronunciation (optional)
-name_pronunciation: Peng Han
+# name_pronunciation: Peng Han
 
 # Full name (for SEO)
 first_name: Peng
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,14 +25,14 @@ organizations:
     url: https://www.ecnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Community ecology, soundscape ecology, animal adaptation to urbanization, conservation biology
+bio: Priority effects, Soundscape, Community assembly
 
 # Interests to show in About widget
 interests:
-  - community
-  - soundscape
-  - animal adaptation to urbanization
-  - conservation biology
+  - Priority Effects
+  - Soundscape
+  - Animal Adaptation to Urbanization
+  - Conservation biology
 
 # Education to show in About widget
 education:
@@ -40,6 +40,9 @@ education:
     - course:  PhD candidate
       institution: East China Normal University
       year: 2019
+    - course: Undergraduate
+      institution: Shandong Agricultural University
+      year: 2015
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #skills:
@@ -115,4 +118,4 @@ education:
 ---
 
 #I am a PhD candidate in Prof. Xingfeng Si’s lab (https://sixf.org/) at the School of Ecological and Environmental Sciences, East China Normal University. By combining traditional methods and acoustic monitoring technologies (see also our work on soundscape diversity of island birds: Han et al. 2023), my PhD work mainly focus on the priority effects in bird community assembly on fragmented habitat islands during migratory season. Our study is located in the Thousand Island Lake, which is a large inundated lake in eastern China created by dam constructions 65 years ago.
-#{style="text-align: justify;"}
+
