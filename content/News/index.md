@@ -24,7 +24,7 @@ abstract: The equilibrium theory of island biogeography predicts the positive sp
 
 tags: bird, functional biogeography, island area,
 #featured: false
-
+featured_only: true
 #links:
 #- name: 
 #  url: 
