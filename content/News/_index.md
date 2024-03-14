@@ -43,6 +43,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
+  url: "/content/News/featured.jpg"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
