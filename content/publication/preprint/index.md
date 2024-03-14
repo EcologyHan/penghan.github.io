@@ -1,7 +1,7 @@
 ---
 title: "Island biogeography of soundscapes: Island area shapes spatial patterns of avian acoustic diversity"
 authors:
-- **Peng Han**, Yuhao Zhao, Yi Kang, Ping Ding, Xingfeng Si
+-**Peng Han**, Yuhao Zhao, Yi Kang, Ping Ding, Xingfeng Si
 date: "2022-12-29T00:00:00Z"
 doi: ""
 
@@ -26,7 +26,7 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
+- name: 
   url: 
 url_pdf: 
 url_code: ''
