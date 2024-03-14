@@ -196,7 +196,6 @@ sections:
       filters:
         folders:
           - News
-        featured_only: true
     design:
       columns: '2'
       view: card
@@ -211,6 +210,9 @@ sections:
         folders:
           - publication
      #   exclude_featured: true
+     # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      
     design:
       columns: '2'
       view: citation
