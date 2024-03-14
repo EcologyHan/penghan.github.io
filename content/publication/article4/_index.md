@@ -14,13 +14,14 @@ publishDate: "2024-01-24T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+#publication: ""
+#publication_short: ""
 
 abstract: 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the Royal Society B: Biological Sciences"
 
+tags:
 #links:
 #- name: 
 #  url: 

@@ -14,13 +14,14 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+#publication: ""
+#publication_short: ""
 
 abstract: 
 # Publication name and optional abbreviated publication name.
 publication: "Biological Conservation"
 
+tags:
 #links:
 #- name: 
 #  url: 
